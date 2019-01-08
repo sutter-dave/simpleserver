@@ -7,8 +7,6 @@ var filehandler = require("./filehandler");
 
 const CONFIG_FILE = "config.json";
 
-
-
 //--------------------------------
 // start server
 //--------------------------------
